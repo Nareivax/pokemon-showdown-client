@@ -1,0 +1,6 @@
+[submodule "data/pokemon-showdown"]
+	path = data/pokemon-showdown
+	url = https://github.com/Nareivax/pokemon-showdown.git
+[submodule "sprites"]
+	path = sprites
+	url = https://github.com/Nareivax/pkmn-sprites.git

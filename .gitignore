@@ -1,11 +1,7 @@
-/sprites/
-/audio/
-/config/
 /index.php
 /index.html
 /preactalpha.html
 /crossprotocol.html
-/data/*
 node_modules/
 eslint-cache/
 .DS_Store
@@ -13,15 +9,6 @@ Thumbs.db
 npm-debug.log
 package-lock.json
 /vendor/
-
-/js/server/
-/js/*.js.map
-/js/battle*.js
-/js/panel*.js
-/js/replay-embed.js
-/js/client-main.js
-/js/client-core.js
-/js/client-connection.js
 
 /replays/caches/
 /replays/replay-config.inc.php
